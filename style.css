@@ -255,7 +255,7 @@
     align-items: start;
 }
 .single-thumbnail{
-    width: auto;
+    width: 100%;
     min-width: 15%;
     max-width: 25%;
     height: auto;
